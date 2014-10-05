@@ -1,0 +1,469 @@
+fileFormatVersion: 2
+guid: 077868d1d724948d2a2596ffb82c97c6
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: alpha rotation
+    100002: alpha rotation 1
+    100004: alpha rotation 2
+    100006: alpha rotation 3
+    100008: beta rotation
+    100010: beta rotation 1
+    100012: beta rotation 2
+    100014: beta rotation 3
+    100016: columbus
+    100018: cupola
+    100020: destiny
+    100022: destiny camera
+    100024: dragon
+    100026: dragon|body|Dupli|9
+    100028: dragon|donut thingy|Dupli|2
+    100030: dragon|door exterior chrome|Dupli|4
+    100032: dragon|door|Dupli|8
+    100034: dragon|hatch alignment ring|Dupli|1
+    100036: dragon|hatch|Dupli|3
+    100038: dragon|heatshield|Dupli|10
+    100040: dragon|nosecone|Dupli|6
+    100042: dragon|superdraco pods|Dupli|5
+    100044: dragon|UCX_dragon|Dupli|0
+    100046: dragon|windows|Dupli|7
+    100048: fold control
+    100050: harmony
+    100052: harmony camera
+    100054: //RootNode
+    100056: iss animated camera
+    100058: iss camera
+    100060: kibo
+    100062: leonardo
+    100064: p1
+    100066: p1 rig
+    100068: p3 rig
+    100070: p3-4
+    100072: p6
+    100074: p6 rig
+    100076: panel rotation
+    100078: quest
+    100080: radiator rotate
+    100082: radiator rotate 1
+    100084: rotate
+    100086: s0
+    100088: s1
+    100090: s1 rig
+    100092: s3 rig
+    100094: s3-4
+    100096: s6
+    100098: s6 rig
+    100100: Sun
+    100102: tranquility
+    100104: trunk
+    100106: trunk|trunk connector|Dupli|1
+    100108: trunk|trunk|Dupli|2
+    100110: trunk|UCX_trunk|Dupli|0
+    100112: truss 1
+    100114: truss 1.001
+    100116: truss 2
+    100118: truss 2.001
+    100120: truss 3
+    100122: truss 3.001
+    100124: truss 4
+    100126: truss 4.001
+    100128: truss 5
+    100130: truss 5.001
+    100132: truss 6
+    100134: truss 6.001
+    100136: truss 7
+    100138: truss 7.001
+    100140: UBX_zarya panels_00
+    100142: UBX_zvezda panels_00
+    100144: UBX_zvezda panels_01
+    100146: UCX_destiny
+    100148: UCX_harmony
+    100150: UCX_s0
+    100152: UCX_unity
+    100154: UCX_z1
+    100156: UCX_zarya
+    100158: UCX_zvezda
+    100160: unity
+    100162: unity camera
+    100164: z1
+    100166: z1 camera
+    100168: zarya
+    100170: zarya camera
+    100172: zarya panel rig
+    100174: zarya panels
+    100176: zvezda
+    100178: zvezda camera
+    100180: zvezda panel rig
+    100182: zvezda panels
+    400000: alpha rotation
+    400002: alpha rotation 1
+    400004: alpha rotation 2
+    400006: alpha rotation 3
+    400008: beta rotation
+    400010: beta rotation 1
+    400012: beta rotation 2
+    400014: beta rotation 3
+    400016: columbus
+    400018: cupola
+    400020: destiny
+    400022: destiny camera
+    400024: dragon
+    400026: dragon|body|Dupli|9
+    400028: dragon|donut thingy|Dupli|2
+    400030: dragon|door exterior chrome|Dupli|4
+    400032: dragon|door|Dupli|8
+    400034: dragon|hatch alignment ring|Dupli|1
+    400036: dragon|hatch|Dupli|3
+    400038: dragon|heatshield|Dupli|10
+    400040: dragon|nosecone|Dupli|6
+    400042: dragon|superdraco pods|Dupli|5
+    400044: dragon|UCX_dragon|Dupli|0
+    400046: dragon|windows|Dupli|7
+    400048: fold control
+    400050: harmony
+    400052: harmony camera
+    400054: //RootNode
+    400056: iss animated camera
+    400058: iss camera
+    400060: kibo
+    400062: leonardo
+    400064: p1
+    400066: p1 rig
+    400068: p3 rig
+    400070: p3-4
+    400072: p6
+    400074: p6 rig
+    400076: panel rotation
+    400078: quest
+    400080: radiator rotate
+    400082: radiator rotate 1
+    400084: rotate
+    400086: s0
+    400088: s1
+    400090: s1 rig
+    400092: s3 rig
+    400094: s3-4
+    400096: s6
+    400098: s6 rig
+    400100: Sun
+    400102: tranquility
+    400104: trunk
+    400106: trunk|trunk connector|Dupli|1
+    400108: trunk|trunk|Dupli|2
+    400110: trunk|UCX_trunk|Dupli|0
+    400112: truss 1
+    400114: truss 1.001
+    400116: truss 2
+    400118: truss 2.001
+    400120: truss 3
+    400122: truss 3.001
+    400124: truss 4
+    400126: truss 4.001
+    400128: truss 5
+    400130: truss 5.001
+    400132: truss 6
+    400134: truss 6.001
+    400136: truss 7
+    400138: truss 7.001
+    400140: UBX_zarya panels_00
+    400142: UBX_zvezda panels_00
+    400144: UBX_zvezda panels_01
+    400146: UCX_destiny
+    400148: UCX_harmony
+    400150: UCX_s0
+    400152: UCX_unity
+    400154: UCX_z1
+    400156: UCX_zarya
+    400158: UCX_zvezda
+    400160: unity
+    400162: unity camera
+    400164: z1
+    400166: z1 camera
+    400168: zarya
+    400170: zarya camera
+    400172: zarya panel rig
+    400174: zarya panels
+    400176: zvezda
+    400178: zvezda camera
+    400180: zvezda panel rig
+    400182: zvezda panels
+    2300000: columbus
+    2300002: cupola
+    2300004: destiny
+    2300006: dragon|body|Dupli|9
+    2300008: dragon|donut thingy|Dupli|2
+    2300010: dragon|door exterior chrome|Dupli|4
+    2300012: dragon|door|Dupli|8
+    2300014: dragon|hatch alignment ring|Dupli|1
+    2300016: dragon|hatch|Dupli|3
+    2300018: dragon|heatshield|Dupli|10
+    2300020: dragon|nosecone|Dupli|6
+    2300022: dragon|superdraco pods|Dupli|5
+    2300024: dragon|UCX_dragon|Dupli|0
+    2300026: dragon|windows|Dupli|7
+    2300028: harmony
+    2300030: kibo
+    2300032: leonardo
+    2300034: quest
+    2300036: s0
+    2300038: tranquility
+    2300040: trunk|trunk connector|Dupli|1
+    2300042: trunk|trunk|Dupli|2
+    2300044: trunk|UCX_trunk|Dupli|0
+    2300046: UBX_zarya panels_00
+    2300048: UBX_zvezda panels_00
+    2300050: UBX_zvezda panels_01
+    2300052: UCX_destiny
+    2300054: UCX_harmony
+    2300056: UCX_s0
+    2300058: UCX_unity
+    2300060: UCX_z1
+    2300062: UCX_zarya
+    2300064: UCX_zvezda
+    2300066: unity
+    2300068: z1
+    2300070: zarya
+    2300072: zvezda
+    2300074: zvezda panels
+    3300000: columbus
+    3300002: cupola
+    3300004: destiny
+    3300006: dragon|body|Dupli|9
+    3300008: dragon|donut thingy|Dupli|2
+    3300010: dragon|door exterior chrome|Dupli|4
+    3300012: dragon|door|Dupli|8
+    3300014: dragon|hatch alignment ring|Dupli|1
+    3300016: dragon|hatch|Dupli|3
+    3300018: dragon|heatshield|Dupli|10
+    3300020: dragon|nosecone|Dupli|6
+    3300022: dragon|superdraco pods|Dupli|5
+    3300024: dragon|UCX_dragon|Dupli|0
+    3300026: dragon|windows|Dupli|7
+    3300028: harmony
+    3300030: kibo
+    3300032: leonardo
+    3300034: quest
+    3300036: s0
+    3300038: tranquility
+    3300040: trunk|trunk connector|Dupli|1
+    3300042: trunk|trunk|Dupli|2
+    3300044: trunk|UCX_trunk|Dupli|0
+    3300046: UBX_zarya panels_00
+    3300048: UBX_zvezda panels_00
+    3300050: UBX_zvezda panels_01
+    3300052: UCX_destiny
+    3300054: UCX_harmony
+    3300056: UCX_s0
+    3300058: UCX_unity
+    3300060: UCX_z1
+    3300062: UCX_zarya
+    3300064: UCX_zvezda
+    3300066: unity
+    3300068: z1
+    3300070: zarya
+    3300072: zvezda
+    3300074: zvezda panels
+    4300002: trunk|trunk connector|Dupli|1
+    4300004: trunk|trunk|Dupli|2
+    4300008: dragon|hatch alignment ring|Dupli|1
+    4300010: dragon|donut thingy|Dupli|2
+    4300012: dragon|hatch|Dupli|3
+    4300014: dragon|door exterior chrome|Dupli|4
+    4300016: dragon|superdraco pods|Dupli|5
+    4300018: dragon|nosecone|Dupli|6
+    4300020: dragon|windows|Dupli|7
+    4300022: dragon|door|Dupli|8
+    4300024: dragon|body|Dupli|9
+    4300026: dragon|heatshield|Dupli|10
+    4300028: leonardo
+    4300030: cupola
+    4300032: kibo
+    4300034: columbus
+    4300036: s6
+    4300038: p6
+    4300040: s1
+    4300042: p1
+    4300044: s3-4
+    4300046: p3-4
+    4300048: UCX_s0
+    4300050: s0
+    4300052: UCX_harmony
+    4300054: harmony
+    4300056: tranquility
+    4300058: UCX_destiny
+    4300060: destiny
+    4300062: UCX_z1
+    4300064: z1
+    4300066: UCX_zvezda
+    4300068: UBX_zvezda panels_00
+    4300070: zvezda panels
+    4300072: zvezda
+    4300074: UCX_unity
+    4300076: unity
+    4300078: quest
+    4300080: UCX_zarya
+    4300082: zarya
+    4300084: UBX_zarya panels_00
+    4300086: zarya panels
+    7400000: trunk|iss animated cameraAction
+    7400002: trunk|unlock
+    7400004: dragon|iss animated cameraAction
+    7400006: dragon|unlock
+    7400008: leonardo|iss animated cameraAction
+    7400010: leonardo|unlock
+    7400012: cupola|iss animated cameraAction
+    7400014: cupola|unlock
+    7400016: kibo|iss animated cameraAction
+    7400018: kibo|unlock
+    7400020: columbus|iss animated cameraAction
+    7400022: columbus|unlock
+    7400024: s6 rig|iss animated cameraAction
+    7400026: s6 rig|unlock
+    7400028: s6|iss animated cameraAction
+    7400030: s6|unlock
+    7400032: p6 rig|iss animated cameraAction
+    7400034: p6 rig|unlock
+    7400036: p6|iss animated cameraAction
+    7400038: p6|unlock
+    7400040: s1 rig|iss animated cameraAction
+    7400042: s1 rig|unlock
+    7400044: s1|iss animated cameraAction
+    7400046: s1|unlock
+    7400048: p1 rig|iss animated cameraAction
+    7400050: p1 rig|unlock
+    7400052: p1|iss animated cameraAction
+    7400054: p1|unlock
+    7400056: s3 rig|iss animated cameraAction
+    7400058: s3 rig|unlock
+    7400060: s3-4|iss animated cameraAction
+    7400062: s3-4|unlock
+    7400064: p3 rig|iss animated cameraAction
+    7400066: p3 rig|unlock
+    7400068: p3-4|iss animated cameraAction
+    7400070: p3-4|unlock
+    7400072: UCX_s0|iss animated cameraAction
+    7400074: UCX_s0|unlock
+    7400076: s0|iss animated cameraAction
+    7400078: s0|unlock
+    7400080: iss animated camera|iss animated cameraAction
+    7400082: iss animated camera|unlock
+    7400084: UCX_harmony|iss animated cameraAction
+    7400086: UCX_harmony|unlock
+    7400088: harmony|iss animated cameraAction
+    7400090: harmony|unlock
+    7400092: tranquility|iss animated cameraAction
+    7400094: tranquility|unlock
+    7400096: UCX_destiny|iss animated cameraAction
+    7400098: UCX_destiny|unlock
+    7400100: destiny|iss animated cameraAction
+    7400102: destiny|unlock
+    7400104: UCX_z1|iss animated cameraAction
+    7400106: UCX_z1|unlock
+    7400108: z1|iss animated cameraAction
+    7400110: z1|unlock
+    7400112: UCX_zvezda|iss animated cameraAction
+    7400114: UCX_zvezda|unlock
+    7400116: zvezda panel rig|iss animated cameraAction
+    7400118: zvezda panel rig|unlock
+    7400120: UBX_zvezda panels_00|iss animated cameraAction
+    7400122: UBX_zvezda panels_00|unlock
+    7400124: zvezda panels|iss animated cameraAction
+    7400126: zvezda panels|unlock
+    7400128: UBX_zvezda panels_01|iss animated cameraAction
+    7400130: UBX_zvezda panels_01|unlock
+    7400132: zvezda|iss animated cameraAction
+    7400134: zvezda|unlock
+    7400136: UCX_unity|iss animated cameraAction
+    7400138: UCX_unity|unlock
+    7400140: unity|iss animated cameraAction
+    7400142: unity|unlock
+    7400144: quest|iss animated cameraAction
+    7400146: quest|unlock
+    7400148: harmony camera|iss animated cameraAction
+    7400150: harmony camera|unlock
+    7400152: UCX_zarya|iss animated cameraAction
+    7400154: UCX_zarya|unlock
+    7400156: zarya|iss animated cameraAction
+    7400158: zarya|unlock
+    7400160: zarya panel rig|iss animated cameraAction
+    7400162: zarya panel rig|unlock
+    7400164: UBX_zarya panels_00|iss animated cameraAction
+    7400166: UBX_zarya panels_00|unlock
+    7400168: zarya panels|iss animated cameraAction
+    7400170: zarya panels|unlock
+    7400172: destiny camera|iss animated cameraAction
+    7400174: destiny camera|unlock
+    7400176: z1 camera|iss animated cameraAction
+    7400178: z1 camera|unlock
+    7400180: zvezda camera|iss animated cameraAction
+    7400182: zvezda camera|unlock
+    7400184: unity camera|iss animated cameraAction
+    7400186: unity camera|unlock
+    7400188: Sun|iss animated cameraAction
+    7400190: Sun|unlock
+    7400192: zarya camera|iss animated cameraAction
+    7400194: zarya camera|unlock
+    7400196: iss camera|iss animated cameraAction
+    7400198: iss camera|unlock
+    9500000: //RootNode
+    13700000: p1
+    13700002: p3-4
+    13700004: p6
+    13700006: s1
+    13700008: s3-4
+    13700010: s6
+    13700012: zarya panels
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 
